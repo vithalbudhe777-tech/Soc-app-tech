@@ -1,0 +1,8 @@
+{
+  "name": "Remix Equipment Maintenance \u0026 Technician Alerts",
+  "description": "Maintenance management and automated alerts app for Aashapura Apartment. Features house owner login with carpet area maintenance calculation (₹1.5 per sq ft), equipment status tracking, in-app payments in Indian Rupees (₹) with auto-ticked overdue resolution, staff announcements, inspection reminders, and editable society settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
